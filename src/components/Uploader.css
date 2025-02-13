@@ -1,0 +1,6 @@
+/* UploaderTool.css */
+.uploader-container {
+  margin: 50px auto;
+  text-align: center;
+  max-width: 1200px; /* Ensures it doesn't stretch too wide */
+}
