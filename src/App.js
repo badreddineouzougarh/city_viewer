@@ -1,5 +1,5 @@
 import './App.css';
-import UploaderTool from './components/Uploader';
+import UploaderTool from './components/uploader/Uploader';
 function App() {
   return (
     <div className="App">
